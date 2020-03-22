@@ -1,6 +1,6 @@
 ![Terraform GitHub Actions](https://github.com/mtharpe/terraform-azure-module-nsg/workflows/Terraform%20GitHub%20Actions/badge.svg)
 
-# terraform-azurerm-network-security-group
+# terraform-azure-module-nsg
 
 ## Create a network security group
 
