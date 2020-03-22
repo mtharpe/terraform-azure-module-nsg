@@ -1,3 +1,7 @@
+provider "azurerm" {
+  features {}
+}
+
 data "azurerm_resource_group" "nsg" {
   name = var.resource_group_name
 }
