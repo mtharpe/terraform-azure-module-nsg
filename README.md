@@ -87,6 +87,12 @@ module "network-security-group" {
 }
 ```
 
-## License
+## License and Maintainer
 
-[MIT](LICENSE)
+Maintainer:: HashiCorp (<hello@hashicorp.com>)
+
+Source:: https://github.com/mtharpe/terraform-azure-nsg
+
+Issues:: https://github.com/mtharpe/terraform-azure-nsg/issues
+
+License:: Apache-2.0
